@@ -7,7 +7,9 @@
 //
 
 import UIKit
+import GCDWebServer
 
 public class BaseViewController: UIViewController {
+    public var gcdWebServer: GCDWebServer!
     
 }
